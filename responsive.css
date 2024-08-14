@@ -1,0 +1,17 @@
+@media screen and (max-width: 520px) {
+  #conteiner {
+    width: 370px;
+    height: 635px;
+    background: var(--Yellow);
+    margin: 0 auto;
+    margin-top: -30px;
+  }
+  body {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    overflow: hidden;
+    background: var(--Yellow);
+  }
+}
